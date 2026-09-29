@@ -1,0 +1,40 @@
+# Exness Trading Bot 🤖
+
+An automated trading bot project designed for Exness.
+
+## Current Status
+
+- Broker: Exness
+- Planned Platform: MT5
+- Trading Mode: DEMO / PAPER TRADING
+- Decisions: BUY / SELL / HOLD
+- Risk Management: Planned
+- Stop Loss: Planned
+- Take Profit: Planned
+- Live Trading: DISABLED
+
+## Important
+
+No trading strategy can guarantee profit or guarantee zero losses.
+
+This project starts with demo/paper trading so the strategy can be tested before connecting a real account.
+
+## How It Works
+
+Market Data
+     ↓
+Market Analysis
+     ↓
+BUY / SELL / HOLD
+     ↓
+Risk Management
+     ↓
+Demo Trade
+
+## Security
+
+Never put your Exness password, API key, or account credentials directly into this repository.
+
+## Goal
+
+Build and test a disciplined automated trading system before considering real-money execution.
